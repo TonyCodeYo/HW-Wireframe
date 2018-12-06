@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #777777;
+  width: 960px;
+  font-size: 18px;
+  background: #777777;
+  margin: auto;
+  text-align: center;
+
+ }
+
+ 
+.joe {
+  ;
+
+
+
+}
+
+.ant {
+  background: #ebebeb
+
+}
+
+#bug {
+  width: 495px;
+  padding: 30px;
+  border: 10px color grey;
+
+  
+}
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+header {
+  margin-bottom: ;
+  line-height: ;
+  padding: 20px;
+  border: 15px;
+  
+
+}
+
+nav {
+
+}
+
+section {
+  float: left;
+  overflow: auto;
+
+
+}
+
+article {
+  color: #ebebeb;
+  background: #777777
+
+}
+
+div {
+  color: #777777;
+  background: #ebebeb
+
+}
+
+p {
+  color: #777777;
+  background: #ebebeb
+}
+
+aside {
+  float: right;
+
+}
+
+footer {
+  clear: both;
+  line-height: 32px;
+
+}
+
