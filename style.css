@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: #777777;
@@ -6,80 +9,59 @@ body {
   background: #777777;
   margin: auto;
   text-align: center;
-
- }
-
- 
+}
+Header, Nav, Section, Aside, Footer {
+  background: #ebebeb;
+}
+article {
+  color:#ebebeb;
+  background: #777777;
+  width: 100%;
+  margin: 1%;
+}
+.tony {
+  color: #777777;
+  background: #ebebeb;
+  width: 98%;
+  margin: 1%;
+}
 .joe {
-  ;
-
-
-
+  color: #777777;
+  background: #ebebeb;
+  width: 99%;
+  margin: 1%;
 }
-
-.ant {
-  background: #ebebeb
-
+.width {
+  width: 100%;
+  padding: 3%;
+  border: 3%;
+  margin: 1%;
 }
-
-#bug {
-  width: 495px;
-  padding: 30px;
-  border: 10px color grey;
-
-  
-}
-
-* {
-  box-sizing: border-box;
-  text-align: center;
-}
-
-header {
-  margin-bottom: ;
-  line-height: ;
-  padding: 20px;
-  border: 15px;
-  
-
-}
-
-nav {
-
-}
-
 section {
   float: left;
-  overflow: auto;
-
-
+  width: 58%;
+  margin: 1%;
+  padding: 11%;
+  border: 11%;
+  border-bottom: 5%;
+  text-align: unset;
 }
-
-article {
-  color: #ebebeb;
-  background: #777777
-
-}
-
-div {
-  color: #777777;
-  background: #ebebeb
-
-}
-
-p {
-  color: #777777;
-  background: #ebebeb
-}
-
 aside {
-  float: right;
-
+  float: left;
+  width: 38%;
+  margin: 1%;
+  margin-right: 0;
+  padding: 15%;
+  border: 15%;
+  border-bottom: 10%
+  
 }
-
 footer {
   clear: both;
-  line-height: 32px;
-
+  margin: 2%;
+  
 }
-
+div {
+  width: 95%;
+}
+/* testing div margin 0 auto */
